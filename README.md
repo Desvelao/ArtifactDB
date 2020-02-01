@@ -2,7 +2,7 @@
 The purpose of this repository is to provide easy access to assets and information about cards for developers creating websites/tools for the game [Artifact by Valve](http://playartifact.com). Hopefully with enough people contributing we can fill out every card and keep it updated to track balance changes.
 (Valve owns all art assets)
 
-Currently there is all the known cards with art available for use, with a JSON manifest that can easily be integrated into your website/tool. If you spot something missing or wrong make a pull request!
+Currently there are all the known cards with art available for use, with a JSON manifest that can easily be integrated into your website/tool. If you spot something missing or wrong make a pull request!
 
 # Installation
 `npm i artifactdb`
